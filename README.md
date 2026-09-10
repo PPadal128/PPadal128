@@ -1,23 +1,22 @@
 <h1 align="center">Hello 👋,I'm Prem Padal</h1>
 <h3 align="center">Data Science Student | Python & SQL | Machine Learning & Deep Learning | Built End-to-End ML Projects | Aspiring Data Scientist & AI/ML Engineer</h3>
 <br><br>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ppadal128&label=Profile%20Views&color=6a11cb&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/PPadal128?label=Followers&style=for-the-badge&color=2575fc&labelColor=6a11cb" alt="Followers"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPPadal128&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=2575fc&labelColor=6a11cb" alt="Public Repositories"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FPPadal128%2FPPadal128%2Fstats%2Frepo-count.json&query=%24.total_commits&label=Total%20Commits&style=for-the-badge&color=6a11cb&labelColor=2575fc&logo=github" alt="Total Commits"/>
+</div>
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ppadal128&label=Profile%20Views&color=6a11cb&style=for-the-badge" alt="Profile views"/> 
-<img src="https://img.shields.io/github/followers/PPadal128?label=Followers&style=for-the-badge&color=2575fc&labelColor=6a11cb" alt="Followers"/> 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPPadal128&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=2575fc&labelColor=6a11cb" alt="Public Repositories"/>
-<br><br>
 
 <img src="https://img.shields.io/badge/Public%20Repositories-LIVE-2575fc?style=for-the-badge&logo=github" alt="Public Repositories"/> 
 <img
   src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FPPadal128%2FPPadal128%2Fstats%2Frepo-count.json&query=%24.private_repos&label=Private%20Repositories&style=for-the-badge&color=6a11cb&labelColor=2575fc&logo=github&cacheSeconds=300"
   alt="Private Repositories"/>
 </div>
-
-
-
-
+<br><br>
 
 - 🔭 I’m currently working on [MNIST Digit Classification: Perceptron vs ANN vs CNN](https://github.com/PPadal128/MNIST-Digit-Classification-Perceptron-vs-ANN-vs-CNN)
 
