@@ -2,10 +2,18 @@
 <h3 align="center">Data Science Student | Python & SQL | Machine Learning & Deep Learning | Built End-to-End ML Projects | Aspiring Data Scientist & AI/ML Engineer</h3>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ppadal128&label=Profile%20Views&color=6a11cb&style=for-the-badge" alt="Profile views"/>&nbsp;
-<img src="https://img.shields.io/github/followers/PPadal128?label=Followers&style=for-the-badge&color=2575fc&labelColor=6a11cb" alt="Followers"/>&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?color=2575fc&labelColor=6a11cb&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPPadal128&style=for-the-badge" alt="Repos"/>
+<img
+src="https://komarev.com/ghpvc/?username=PPadal128&label=Profile%20Views&color=6a11cb&style=for-the-badge"
+alt="Profile Views"/> 
+<img
+src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPPadal128&query=%24.followers&label=Followers&style=for-the-badge&color=2575fc&labelColor=6a11cb&logo=github&cacheSeconds=300"
+alt="GitHub Followers"/> 
+<img
+src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPPadal128&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=2575fc&labelColor=6a11cb&logo=github&cacheSeconds=300"
+alt="GitHub Public Repositories"/>
+
 </div>
+
 
 
 - 🔭 I’m currently working on [MNIST Digit Classification: Perceptron vs ANN vs CNN](https://github.com/PPadal128/MNIST-Digit-Classification-Perceptron-vs-ANN-vs-CNN)
