@@ -3,9 +3,9 @@
 <br><br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ppadal128&label=Profile%20Views&color=6a11cb&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/PPadal128?label=Followers&style=for-the-badge&color=2575fc&labelColor=6a11cb" alt="Followers"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPPadal128&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=2575fc&labelColor=6a11cb" alt="Public Repositories"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FPPadal128%2FPPadal128%2Fstats%2Frepo-count.json&query=%24.total_commits&label=Total%20Commits&style=for-the-badge&color=6a11cb&labelColor=2575fc&logo=github" alt="Total Commits"/>
+<img src="https://img.shields.io/github/followers/PPadal128?label=Followers&style=for-the-badge&color=2575fc&labelColor=6a11cb&cacheSeconds=300" alt="Followers"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPPadal128&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=2575fc&labelColor=6a11cb&cacheSeconds=300" alt="Public Repositories"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FPPadal128%2FPPadal128%2Fstats%2Frepo-count.json&query=%24.total_commits&label=Total%20Commits&style=for-the-badge&color=6a11cb&labelColor=2575fc&logo=github&cacheSeconds=300" alt="Total Commits"/>
 </div>
 
 
@@ -96,9 +96,3 @@
 </table>
 
 </div>
-
-
-
-
-
-
