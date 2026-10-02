@@ -18,7 +18,7 @@
 </div>
 <br><br>
 
-- 🔭 I’m currently working on [MNIST Digit Classification: Perceptron vs ANN vs CNN](https://github.com/PPadal128/E2E_ML_Project)
+- 🔭 I’m currently working on [E2E_ML_Project](https://github.com/PPadal128/E2E_ML_Project)
 
 - 🌱 I’m currently learning **DeepLearning, AI Agents**
 
