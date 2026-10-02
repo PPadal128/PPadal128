@@ -1,0 +1,39 @@
+name: Update Repo Stats
+
+on:
+  schedule:
+    - cron: "0 * * * *"      # runs every hour
+  workflow_dispatch:          # lets you run it manually
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats
+        env:
+          GH_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+        run: |
+          USER_JSON=$(gh api user)
+          PUBLIC=$(echo "$USER_JSON" | jq '.public_repos')
+          PRIVATE=$(echo "$USER_JSON" | jq '.total_private_repos // 0')
+          COMMITS=$(gh api "search/commits?q=author:PPadal128" --jq '.total_count')
+          echo "{\"public_repos\":$PUBLIC,\"private_repos\":$PRIVATE,\"total_commits\":$COMMITS}" > /tmp/repo-count.json
+          cat /tmp/repo-count.json
+
+      - name: Push to stats branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan stats
+          git rm -rf . -q
+          cp /tmp/repo-count.json repo-count.json
+          git add repo-count.json
+          git commit -m "Update stats"
+          git push -f origin stats
