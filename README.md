@@ -8,6 +8,13 @@
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FPPadal128%2FPPadal128%2Fstats%2Frepo-count.json&query=%24.total_commits&label=Total%20Commits&style=for-the-badge&color=6a11cb&labelColor=2575fc&logo=github&cacheSeconds=300" alt="Total Commits"/>
 </div>
 
+<div align="center">
+<img src="https://img.shields.io/badge/Public%20Repositories-LIVE-2575fc?style=for-the-badge&logo=github" alt="Public Repositories"/>
+<img
+  src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FPPadal128%2FPPadal128%2Fstats%2Frepo-count.json&query=%24.private_repos&label=Private%20Repositories&style=for-the-badge&color=6a11cb&labelColor=2575fc&logo=github&cacheSeconds=300"
+  alt="Private Repositories"/>
+</div>
+
 
 <div align="center">
 
@@ -96,3 +103,6 @@
 </table>
 
 </div>
+
+
+
